@@ -1,3 +1,15 @@
+> ## This repository has moved
+>
+> This is the continued home of **NeoForgeReplay**, a port of ReplayMod to NeoForge.
+> It was previously hosted at [mattHmm/NeoForgeReplay](https://github.com/mattHmm/NeoForgeReplay),
+> but that repository is on an account we can no longer access, so development and bug
+> reports have moved here.
+>
+> Please open new issues on this repository. The original stays online for history and
+> older reports: https://github.com/mattHmm/NeoForgeReplay
+
+---
+
 # ReplayMod
 A Minecraft mod to record game sessions and replay them afterwards from any perspective.
 
