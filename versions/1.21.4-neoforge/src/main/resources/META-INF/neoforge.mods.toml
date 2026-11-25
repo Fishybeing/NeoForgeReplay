@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[1,)"
 license = "GPL-3.0-or-later"
-issueTrackerURL = "https://github.com/ReplayMod/ReplayMod/issues"
+issueTrackerURL = "https://github.com/Fishybeing/NeoForgeReplay/issues"
 
 [[mods]]
     modId           = "replaymod"
